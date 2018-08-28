@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AplicacaoTeste</string>
+    <string name="digite_seu_user">Digite seu User</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="conectado">Conectado</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
+</resources>
