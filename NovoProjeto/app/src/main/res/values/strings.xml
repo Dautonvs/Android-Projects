@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NovoProjeto</string>
+    <string name="digite_o_user">Digite o User</string>
+    <string name="digite_a_senha">Digite a Senha</string>
+    <string name="conectado">conectado</string>
+    <string name="login">login</string>
+    <string name="logininvalido" />
+    <string name="escolhe_uma_cor">Escolhe uma cor</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="salvar">Salvar</string>
+</resources>
